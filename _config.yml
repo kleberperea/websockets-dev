@@ -17,3 +17,5 @@ exclude:
   - modules
   - Dockerfile
   - developers.com.conf
+
+theme: jekyll-theme-hacker
